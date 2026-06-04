@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  gonow:
+    build: .
+    container_name: gonow
+    ports:
+      - "8000:8000"
+      - "5173:5173"
+    environment:
+      - LOG_LEVEL=INFO
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - gonow-net
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  gonow-net:
+    driver: bridge
