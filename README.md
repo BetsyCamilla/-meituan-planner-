@@ -13,8 +13,7 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.104+-009688.svg" />
 </p>
 
-<!-- 建议在此处放一张应用截图：把图片放到 docs/screenshot.png 后取消下一行注释 -->
-<!-- ![走起 截图](docs/screenshot.png) -->
+[![演示视频](docs/cover.png)]([https://screenapp.io/app/v/-JRuAyRtkR])
 
 ---
 
