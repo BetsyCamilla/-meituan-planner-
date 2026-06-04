@@ -13,7 +13,11 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.104+-009688.svg" />
 </p>
 
-https://github.com/user-attachments/assets/6f0c70df-c776-4c55-b19e-0715add89536
+
+
+https://github.com/user-attachments/assets/0145d6dc-cf01-476c-96ce-20b139930c75
+
+
 
 ---
 
