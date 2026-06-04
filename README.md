@@ -13,7 +13,7 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.104+-009688.svg" />
 </p>
 
-[![演示视频](docs/cover.png)]([https://screenapp.io/app/v/-JRuAyRtkR])
+https://github.com/user-attachments/assets/6f0c70df-c776-4c55-b19e-0715add89536
 
 ---
 
