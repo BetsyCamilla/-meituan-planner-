@@ -167,4 +167,4 @@ docker compose up --build
 
 ## 📄 许可证
 
-[MIT](LICENSE) © YOUR_GITHUB_USERNAME
+[MIT](LICENSE) © nana
